@@ -136,16 +136,6 @@ HTML_CONTENT = """<!DOCTYPE html>
             </div>
         </div>
         
-        <div class="crisis-resources">
-            <h3>Crisis Resources</h3>
-            <p>If you're experiencing a mental health crisis or having thoughts of self-harm:</p>
-            <ul>
-                <li>National Suicide Prevention Lifeline: 988 or 1-800-273-8255</li>
-                <li>Crisis Text Line: Text HOME to 741741</li>
-                <li>SAMHSA's National Helpline: 1-800-662-4357</li>
-            </ul>
-        </div>
-    </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
