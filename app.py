@@ -122,9 +122,7 @@ HTML_CONTENT = """<!DOCTYPE html>
         <div class="chat-container">
             <div class="chat-messages" id="chat-messages">
                 <div class="message bot-message">
-                    Hi there! I'm MindCare, a supportive space for you to talk about your feelings and mental health. 
-                    I'm here to listen and provide support, though I should mention I'm not a licensed therapist or a replacement for professional help. 
-                    What would you like to talk about today? How have you been feeling recently?
+                    Hi there! I'm MindCare...how do you feel today???
                 </div>
             </div>
             
