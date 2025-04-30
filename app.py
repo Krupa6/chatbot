@@ -13,7 +13,7 @@ HTML_CONTENT = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MindCare - Mental Health Support</title>
+    <title>Talkie Pie- Mental Health Support</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -122,7 +122,7 @@ HTML_CONTENT = """<!DOCTYPE html>
         <div class="chat-container">
             <div class="chat-messages" id="chat-messages">
                 <div class="message bot-message">
-                    Hi there! I'm Talkie pie...how do you feel today???
+                    Hi there! I'm Talkie Pie...how do you feel today???
                 </div>
             </div>
             
