@@ -115,18 +115,18 @@ HTML_CONTENT = """<!DOCTYPE html>
 <body>
     <div class="container">
         <header>
-            <h1>MindCare</h1>
+            <h1>Talkie Pie</h1>
             <p>A supportive space to discuss your thoughts and feelings</p>
         </header>
         
         <div class="chat-container">
             <div class="chat-messages" id="chat-messages">
                 <div class="message bot-message">
-                    Hi there! I'm MindCare...how do you feel today???
+                    Hi there! I'm Talkie pie...how do you feel today???
                 </div>
             </div>
             
-            <div class="thinking" id="thinking">MindCare is thinking...</div>
+            <div class="thinking" id="thinking">thinking...</div>
             
             <div class="message-input">
                 <input type="text" id="user-input" placeholder="Type your message here..." autocomplete="off">
