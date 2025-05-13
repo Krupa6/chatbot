@@ -41,8 +41,7 @@ HTML_CONTENT = """<!DOCTYPE html>
 
         <div class="chat-container">
             <div class="chat-messages" id="chat-messages">
-                <div class="message bot-message">
-                    Hi there! I'm Talkie Pie 💙 How do you feel today? 😊
+                <div class="message bot-message">Hi there! I'm Talkie Pie 💙 How do you feel today? 😊
                 </div>
             </div>
 
