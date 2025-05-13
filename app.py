@@ -114,7 +114,7 @@ def send_message():
     data = request.json
     message = data.get('message', '')
 
-    prompt = f"Please respond in 3 to 4 friendly and supportive short lines with appropriate emojis based on this message: {message}"
+    prompt = f"Please respond in friendly and supportive short lines with appropriate emojis based on this message: {message}"
 
     payload = {
         "contents": [
